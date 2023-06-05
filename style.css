@@ -1,0 +1,20 @@
+/* Add some basic styles */
+body {
+  background-color: pink;
+  font-family: Arial, sans-serif;
+}
+input[type="text"] {
+  padding: 5px;
+  width: 200px;
+}
+button {
+  padding: 5px 10px;
+}
+.transaction-item {
+  margin-bottom: 10px;
+}
+.error-message {
+  color: red;
+  font-weight: bold;
+  margin-top: 10px;
+}
